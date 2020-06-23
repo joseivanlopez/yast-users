@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue Jun 23 10:24:28 UTC 2020 - Martin Vidner <mvidner@suse.com>
+
+- Remove ag_uid to save memory at installation time (bsc#1172139).
+- 4.3.3
+
+-------------------------------------------------------------------
 Wed May 27 11:55:44 UTC 2020 - David Diaz <dgonzalez@suse.com>
 
 - Dropped legacy testsuite (related to bsc#1138668).
